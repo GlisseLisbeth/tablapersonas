@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tablapersonas/static/css/main.f05016c4.chunk.css",
+    "main.js": "/tablapersonas/static/js/main.d0238211.chunk.js",
+    "main.js.map": "/tablapersonas/static/js/main.d0238211.chunk.js.map",
+    "runtime-main.js": "/tablapersonas/static/js/runtime-main.637ba046.js",
+    "runtime-main.js.map": "/tablapersonas/static/js/runtime-main.637ba046.js.map",
+    "static/css/2.510409cd.chunk.css": "/tablapersonas/static/css/2.510409cd.chunk.css",
+    "static/js/2.63f8eff6.chunk.js": "/tablapersonas/static/js/2.63f8eff6.chunk.js",
+    "static/js/2.63f8eff6.chunk.js.map": "/tablapersonas/static/js/2.63f8eff6.chunk.js.map",
+    "index.html": "/tablapersonas/index.html",
+    "precache-manifest.fc9767216690b7feffd626cc99ff8883.js": "/tablapersonas/precache-manifest.fc9767216690b7feffd626cc99ff8883.js",
+    "service-worker.js": "/tablapersonas/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/tablapersonas/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.f05016c4.chunk.css.map": "/tablapersonas/static/css/main.f05016c4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.637ba046.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.63f8eff6.chunk.js",
+    "static/css/main.f05016c4.chunk.css",
+    "static/js/main.d0238211.chunk.js"
+  ]
+}
